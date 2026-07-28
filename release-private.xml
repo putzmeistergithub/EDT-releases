@@ -3,6 +3,7 @@
   <version>3.19.3</version>
   <url>https://github.com/putzmeistergithub/EDT-releases/releases/download/3.19.3/EDTInstaller.msi</url>
   <changelog>
+    Eingrenzung eines Performance-Problems
   </changelog>
   <mandatory>false</mandatory>
   <executable>pmEDT.exe</executable>
