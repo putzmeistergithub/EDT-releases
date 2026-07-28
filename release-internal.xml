@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>3.19.2</version>
-  <url>https://github.com/putzmeistergithub/EDT-releases/releases/download/3.19.2/EDTInstaller.msi</url>
+  <version>3.19.3</version>
+  <url>https://github.com/putzmeistergithub/EDT-releases/releases/download/3.19.3/EDTInstaller.msi</url>
   <mandatory>false</mandatory>
   <executable>pmEDT.exe</executable>
 </item>
